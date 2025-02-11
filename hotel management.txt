@@ -1,0 +1,8 @@
+
+
+	Hotel management Requirements
+*user management
+*reservation management
+*payment and bills
+*room management
+*user feedback and support
